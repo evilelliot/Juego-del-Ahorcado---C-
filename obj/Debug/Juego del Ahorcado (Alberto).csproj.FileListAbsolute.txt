@@ -1,0 +1,11 @@
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\bin\Debug\Juego del Ahorcado (Alberto).exe.config
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\bin\Debug\Juego del Ahorcado (Alberto).exe
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\bin\Debug\Juego del Ahorcado (Alberto).pdb
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego del Ahorcado (Alberto).csproj.AssemblyReference.cache
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego del Ahorcado (Alberto).csproj.SuggestedBindingRedirects.cache
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego_del_Ahorcado__Alberto_.Form1.resources
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego_del_Ahorcado__Alberto_.Properties.Resources.resources
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego del Ahorcado (Alberto).csproj.GenerateResource.cache
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego del Ahorcado (Alberto).csproj.CoreCompileInputs.cache
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego del Ahorcado (Alberto).exe
+C:\Users\Alberto Ocaranza\source\repos\Juego del Ahorcado (Alberto)\obj\Debug\Juego del Ahorcado (Alberto).pdb
